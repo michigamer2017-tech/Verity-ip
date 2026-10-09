@@ -1,0 +1,10 @@
+{
+  "name": "verity-ip",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": { "start": "node index.js" },
+  "dependencies": {
+    "ws": "^8.17.0",
+    "groq-sdk": "^0.7.0"
+  }
+}
